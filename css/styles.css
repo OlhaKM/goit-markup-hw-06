@@ -556,12 +556,13 @@ footer {
     align-items: center;
     width: 200px;
     height: 50px;
+    border-radius: 4px;
 }
 .block-icon {
     color: #000000;
 }
 .icon-tg {
-    padding-left: 10px;
+    margin-left: 10px;
 }
 .mail-form {
     display: flex;
